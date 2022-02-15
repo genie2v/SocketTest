@@ -38,10 +38,10 @@ public class Server2 {
 
 					System.out.println("Client: " + msgFromClient);
 					
-					System.out.print("Receive msg: ");
-					String receive = scanner.nextLine();
+					System.out.print("Response msg: ");
+					String response = scanner.nextLine();
 
-					bufferedWriter.write(msgFromClient + receive);
+					bufferedWriter.write(msgFromClient + response);
 					bufferedWriter.newLine();
 					bufferedWriter.flush();
 				}
