@@ -1,2 +1,2 @@
-# SocketProgramming
+# SocketTest
 C# Client, JAVA Server
