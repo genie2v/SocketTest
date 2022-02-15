@@ -20,7 +20,7 @@ public class Server {
 			try {
 				socket = serverSocket.accept();
 				
-				System.out.println("Client 立加");
+				System.out.println("Client 鞝戩啀");
 				
 				inputStreamReader = new InputStreamReader(socket.getInputStream());
 				outputStreamWriter = new OutputStreamWriter(socket.getOutputStream());
@@ -51,7 +51,7 @@ public class Server {
 				bufferedReader.close();
 				bufferedWriter.close();
 				
-				System.out.println("Client 立加 辆丰");
+				System.out.println("Client 鞝戩啀 頃挫牅");
 				break;
 				
 			} catch(IOException e) {
