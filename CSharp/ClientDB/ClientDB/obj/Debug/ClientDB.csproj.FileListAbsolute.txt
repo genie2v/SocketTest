@@ -1,0 +1,7 @@
+c:\users\jy\documents\visual studio 2012\Projects\ClientDB\ClientDB\bin\Debug\ClientDB.exe.config
+C:\Users\jy\documents\visual studio 2012\Projects\ClientDB\ClientDB\obj\Debug\ClientDB.csprojResolveAssemblyReference.cache
+C:\Users\jy\documents\visual studio 2012\Projects\ClientDB\ClientDB\bin\Debug\ClientDB.exe
+C:\Users\jy\documents\visual studio 2012\Projects\ClientDB\ClientDB\bin\Debug\ClientDB.pdb
+C:\Users\jy\documents\visual studio 2012\Projects\ClientDB\ClientDB\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jy\documents\visual studio 2012\Projects\ClientDB\ClientDB\obj\Debug\ClientDB.exe
+C:\Users\jy\documents\visual studio 2012\Projects\ClientDB\ClientDB\obj\Debug\ClientDB.pdb
