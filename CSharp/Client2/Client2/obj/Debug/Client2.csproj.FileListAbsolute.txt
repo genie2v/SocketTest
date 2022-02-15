@@ -1,0 +1,6 @@
+c:\users\jy\documents\visual studio 2012\Projects\Client2\Client2\bin\Debug\Client2.exe.config
+c:\users\jy\documents\visual studio 2012\Projects\Client2\Client2\bin\Debug\Client2.exe
+c:\users\jy\documents\visual studio 2012\Projects\Client2\Client2\bin\Debug\Client2.pdb
+c:\users\jy\documents\visual studio 2012\Projects\Client2\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+c:\users\jy\documents\visual studio 2012\Projects\Client2\Client2\obj\Debug\Client2.exe
+c:\users\jy\documents\visual studio 2012\Projects\Client2\Client2\obj\Debug\Client2.pdb
