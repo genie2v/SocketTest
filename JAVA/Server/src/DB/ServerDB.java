@@ -54,13 +54,12 @@ public class ServerDB {
 
 						while (rs.next()) {
 							response = rs.getString("B");
+							bufferedWriter.write(response);
+							bufferedWriter.newLine();
+							bufferedWriter.flush();
 						}
 
 						System.out.println("Server: " + response);
-
-						bufferedWriter.write(response);
-						bufferedWriter.newLine();
-						bufferedWriter.flush();
 					} catch (SQLException e) {
 						// TODO: handle exception
 						e.printStackTrace();
